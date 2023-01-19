@@ -7,8 +7,8 @@ O projeto tem como objetivo principal objetivo construir uma API que realizesse 
 
 ## **Objetivos**
 - Constrir a própria API; 
-- Criar endpoint; 
-- Métodos: Get, Put, Post e Delete;
+- endpoints; 
+- Métodos: Get, Put, Post, Delete e outros;
 - Conexão com o Banco de dados;
 - Validação via Spring Validation;
 - Implementação de Services e HttpStatus; 
